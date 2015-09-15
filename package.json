@@ -1,0 +1,20 @@
+{
+  "name": "prueba-weather-channel",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+  	"start": "python -m SimpleHTTPServer",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highercomve/prueba-weather-channel.git"
+  },
+  "author": "Sergio Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highercomve/prueba-weather-channel/issues"
+  },
+  "homepage": "https://github.com/highercomve/prueba-weather-channel#readme"
+}

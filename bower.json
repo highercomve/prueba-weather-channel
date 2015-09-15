@@ -1,0 +1,14 @@
+{
+  "name": "prueba-weather-channel",
+  "version": "0.0.1",
+  "authors": [
+    "Sergio Marin <higher.vnf@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "handlebars": "~4.0.2"
+  }
+}
